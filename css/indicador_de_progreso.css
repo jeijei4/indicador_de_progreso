@@ -45,9 +45,9 @@
 .indicador_de_progreso>li .burbuja:before, .indicador_de_progreso>li .burbuja:after {
     display: block;
     position: absolute;
-    top: 9px;
+    top: 0.600em;
     width: 100%;
-    height: 3px;
+    height: 0.394em;
     content: '';
     background: #bbbbbb;
 }
@@ -107,7 +107,7 @@
     display: block;
     position: absolute;
     width: 100%;
-    height: 3px;
+    height: 0.394em;
 }
 
 .indicador_de_progreso>li:not(:last-child).en_progreso .burbuja:before {
