@@ -136,6 +136,7 @@
 @media handheld, screen and (max-width: 400px) {
     .indicador_de_progreso {
         font-size: 60%;
+        width: 95%;
     }
     .indicador_de_progreso>li.completo .burbuja:before, .indicador_de_progreso>li.en_progreso .burbuja:before {
         font-size: 1.280em;
