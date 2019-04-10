@@ -6,6 +6,7 @@ Indicador de progreso responsive con CSS puro
 
 ```html
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+<link rel="stylesheet" href="./css/indicador_de_progreso.min.css">
 ```
 ```html
 <ul class="indicador_de_progreso">
