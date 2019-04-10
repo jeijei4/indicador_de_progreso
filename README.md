@@ -9,8 +9,8 @@ Indicador de progreso responsive con CSS puro
 ```
 ```html
 <ul class="indicador_de_progreso">
-  <li id="progreso1" class="en_progreso"><span class="burbuja"></span></li>
-  <li id="progreso2" class=""><span class="burbuja"></span></li>
+  <li id="progreso1" class="completo"><span class="burbuja"></span></li>
+  <li id="progreso2" class="en_progreso"><span class="burbuja"></span></li>
   <li id="progreso3" class=""><span class="burbuja"></span></li>
 </ul>
 ```
