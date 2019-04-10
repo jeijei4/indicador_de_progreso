@@ -138,6 +138,6 @@
         font-size: 60%;
     }
     .indicador_de_progreso>li.completo .burbuja:before, .indicador_de_progreso>li.en_progreso .burbuja:before {
-        font-size: 1.000em;
+        font-size: 1.280em;
     }
 }
